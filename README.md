@@ -65,7 +65,6 @@ Enter song name: Ajab si
 Enter your choice: 4
 Enter song name to play: Ajab si
  Now playing: Ajab si
-```
 
 ---
 
